@@ -61,12 +61,12 @@ FEELFINITY transforms the mundane task of schedule management into an enjoyable,
 
 | 🎯 Feature | 📝 Description | 🔗 Code Reference | ✅ Status |
 |------------|----------------|-------------------|-----------|
-| **💳 Easy Payment** | Multiple secure payment options for seamless transactions | [`setupPricingCards()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L150) | ✅ Live |
-| **🔒 Safe Transaction** | End-to-end encryption and security protocols | [`setupContactForm()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L200) | ✅ Live |
-| **⚡ Fast Customer Service** | 24/7 instant support with quick response times | [Contact Section](https://github.com/yourusername/feelfinity/blob/main/index.html#L180) | ✅ Live |
-| **🚀 Quick Transaction** | Lightning-fast processing with instant confirmations | [`createRippleEffect()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L300) | ✅ Live |
-| **🎯 Accurate Planning** | AI-powered algorithms for perfect scheduling | [Hero Icons](https://github.com/yourusername/feelfinity/blob/main/index.html#L45) | ✅ Live |
-| **📱 Mobile Ready** | Fully responsive design for all devices | [Responsive CSS](https://github.com/yourusername/feelfinity/blob/main/style.css#L800) | ✅ Live |
+| **💳 Easy Payment** | Multiple secure payment options for seamless transactions | [`setupPricingCards()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L150) | Comming Soon ! |
+| **🔒 Safe Transaction** | End-to-end encryption and security protocols | [`setupContactForm()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L200) | Comming Soon ! |
+| **⚡ Fast Customer Service** | 24/7 instant support with quick response times | [Contact Section](https://github.com/yourusername/feelfinity/blob/main/index.html#L180) | Comming Soon ! |
+| **🚀 Quick Transaction** | Lightning-fast processing with instant confirmations | [`createRippleEffect()`](https://github.com/yourusername/feelfinity/blob/main/app.js#L300) | Comming Soon ! |
+| **🎯 Accurate Planning** | AI-powered algorithms for perfect scheduling | [Hero Icons](https://github.com/yourusername/feelfinity/blob/main/index.html#L45) | Comming Soon ! |
+| **📱 Mobile Ready** | Fully responsive design for all devices | [Responsive CSS](https://github.com/yourusername/feelfinity/blob/main/style.css#L800) | Comming Soon ! |
 
 <div align="center">
 - **Responsive Design**: Mobile-first approach
